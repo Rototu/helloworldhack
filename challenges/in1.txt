@@ -1,0 +1,1 @@
+Welcome to the cryptograpy challenge of the Hello World Hack! If you managed to decode this message it means that you are on the right track! You can now move on to the next part of the challenge.
